@@ -1,0 +1,8 @@
+{
+  "app": "bookrecommendersystem",
+  "port": 8501,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
+}
